@@ -7,6 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		010D8A57156F374E0087EEE8 /* panglitch2reversed1080.mov in Resources */ = {isa = PBXBuildFile; fileRef = 010D8A56156F374E0087EEE8 /* panglitch2reversed1080.mov */; };
+		010D8A5B156F3C660087EEE8 /* redsea.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 010D8A59156F3C660087EEE8 /* redsea.m4a */; };
+		010D8A5F156F41920087EEE8 /* pan1080.mov in Resources */ = {isa = PBXBuildFile; fileRef = 010D8A5E156F41920087EEE8 /* pan1080.mov */; };
+		010D8A61156F43910087EEE8 /* loud.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 010D8A60156F43910087EEE8 /* loud.m4a */; };
+		010D8A7F156F5A690087EEE8 /* Ocean6.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 010D8A7E156F5A690087EEE8 /* Ocean6.mp4 */; };
+		010D8A8F15700DB10087EEE8 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 010D8A8515700DA80087EEE8 /* 1.png */; };
+		010D8A9015700DB10087EEE8 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 010D8A8615700DA90087EEE8 /* 2.png */; };
+		010D8A9115700DB10087EEE8 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 010D8A8715700DAA0087EEE8 /* 3.png */; };
+		010D8A9215700DB10087EEE8 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 010D8A8815700DAB0087EEE8 /* 4.png */; };
+		010D8A9315700DB10087EEE8 /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 010D8A8915700DAB0087EEE8 /* 5.png */; };
+		010D8A9415700DB10087EEE8 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 010D8A8A15700DAC0087EEE8 /* 6.png */; };
+		010D8A9515700DB10087EEE8 /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 010D8A8B15700DAE0087EEE8 /* 7.png */; };
+		010D8A9615700DB10087EEE8 /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 010D8A8C15700DAE0087EEE8 /* 8.png */; };
+		010D8A9715700DB10087EEE8 /* 9.png in Resources */ = {isa = PBXBuildFile; fileRef = 010D8A8D15700DAF0087EEE8 /* 9.png */; };
+		010D8A9815700DB10087EEE8 /* 10.png in Resources */ = {isa = PBXBuildFile; fileRef = 010D8A8E15700DB00087EEE8 /* 10.png */; };
 		EDDE7BB3156EE6A300FD86A0 /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDDE7BB2156EE6A300FD86A0 /* Accelerate.framework */; };
 		EDDE7BB5156EE6A300FD86A0 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDDE7BB4156EE6A300FD86A0 /* AVFoundation.framework */; };
 		EDDE7BB7156EE6A300FD86A0 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDDE7BB6156EE6A300FD86A0 /* CoreFoundation.framework */; };
@@ -41,7 +56,6 @@
 		EDDE7C2F156EE6D200FD86A0 /* testmask2.png in Resources */ = {isa = PBXBuildFile; fileRef = EDDE7C2B156EE6D200FD86A0 /* testmask2.png */; };
 		EDDE7C30156EE6D200FD86A0 /* testmask3.png in Resources */ = {isa = PBXBuildFile; fileRef = EDDE7C2C156EE6D200FD86A0 /* testmask3.png */; };
 		EDDE7C31156EE6D200FD86A0 /* testmask.png in Resources */ = {isa = PBXBuildFile; fileRef = EDDE7C2D156EE6D200FD86A0 /* testmask.png */; };
-		EDDE7C32156EE6D200FD86A0 /* testmask4.png in Resources */ = {isa = PBXBuildFile; fileRef = EDDE7C2E156EE6D200FD86A0 /* testmask4.png */; };
 		EDDE7C35156EE6DE00FD86A0 /* RedSeaBefore1080.mov in Resources */ = {isa = PBXBuildFile; fileRef = EDDE7C33156EE6DE00FD86A0 /* RedSeaBefore1080.mov */; };
 		EDDE7C36156EE6DE00FD86A0 /* RedSeaBeforeglitch1080.mov in Resources */ = {isa = PBXBuildFile; fileRef = EDDE7C34156EE6DE00FD86A0 /* RedSeaBeforeglitch1080.mov */; };
 		EDDE7C41156EE75300FD86A0 /* mask01.png in Resources */ = {isa = PBXBuildFile; fileRef = EDDE7C37156EE75300FD86A0 /* mask01.png */; };
@@ -57,6 +71,21 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		010D8A56156F374E0087EEE8 /* panglitch2reversed1080.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = panglitch2reversed1080.mov; sourceTree = "<group>"; };
+		010D8A59156F3C660087EEE8 /* redsea.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = redsea.m4a; sourceTree = "<group>"; };
+		010D8A5E156F41920087EEE8 /* pan1080.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = pan1080.mov; sourceTree = "<group>"; };
+		010D8A60156F43910087EEE8 /* loud.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = loud.m4a; sourceTree = "<group>"; };
+		010D8A7E156F5A690087EEE8 /* Ocean6.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ocean6.mp4; sourceTree = "<group>"; };
+		010D8A8515700DA80087EEE8 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		010D8A8615700DA90087EEE8 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		010D8A8715700DAA0087EEE8 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		010D8A8815700DAB0087EEE8 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		010D8A8915700DAB0087EEE8 /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		010D8A8A15700DAC0087EEE8 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		010D8A8B15700DAE0087EEE8 /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		010D8A8C15700DAE0087EEE8 /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		010D8A8D15700DAF0087EEE8 /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9.png; sourceTree = "<group>"; };
+		010D8A8E15700DB00087EEE8 /* 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10.png; sourceTree = "<group>"; };
 		EDDE7BAE156EE6A300FD86A0 /* animatedVideoMask.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = animatedVideoMask.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDDE7BB2156EE6A300FD86A0 /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
 		EDDE7BB4156EE6A300FD86A0 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
@@ -127,7 +156,6 @@
 		EDDE7C2B156EE6D200FD86A0 /* testmask2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = testmask2.png; sourceTree = "<group>"; };
 		EDDE7C2C156EE6D200FD86A0 /* testmask3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = testmask3.png; sourceTree = "<group>"; };
 		EDDE7C2D156EE6D200FD86A0 /* testmask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = testmask.png; sourceTree = "<group>"; };
-		EDDE7C2E156EE6D200FD86A0 /* testmask4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = testmask4.png; sourceTree = "<group>"; };
 		EDDE7C33156EE6DE00FD86A0 /* RedSeaBefore1080.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = RedSeaBefore1080.mov; sourceTree = "<group>"; };
 		EDDE7C34156EE6DE00FD86A0 /* RedSeaBeforeglitch1080.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = RedSeaBeforeglitch1080.mov; sourceTree = "<group>"; };
 		EDDE7C37156EE75300FD86A0 /* mask01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mask01.png; sourceTree = "<group>"; };
@@ -269,12 +297,26 @@
 		EDDE7BF9156EE6A400FD86A0 /* Media */ = {
 			isa = PBXGroup;
 			children = (
+				010D8A8515700DA80087EEE8 /* 1.png */,
+				010D8A8615700DA90087EEE8 /* 2.png */,
+				010D8A8715700DAA0087EEE8 /* 3.png */,
+				010D8A8815700DAB0087EEE8 /* 4.png */,
+				010D8A8915700DAB0087EEE8 /* 5.png */,
+				010D8A8A15700DAC0087EEE8 /* 6.png */,
+				010D8A8B15700DAE0087EEE8 /* 7.png */,
+				010D8A8C15700DAE0087EEE8 /* 8.png */,
+				010D8A8D15700DAF0087EEE8 /* 9.png */,
+				010D8A8E15700DB00087EEE8 /* 10.png */,
+				010D8A7E156F5A690087EEE8 /* Ocean6.mp4 */,
+				010D8A60156F43910087EEE8 /* loud.m4a */,
+				010D8A5E156F41920087EEE8 /* pan1080.mov */,
+				010D8A59156F3C660087EEE8 /* redsea.m4a */,
+				010D8A56156F374E0087EEE8 /* panglitch2reversed1080.mov */,
 				EDDE7C33156EE6DE00FD86A0 /* RedSeaBefore1080.mov */,
 				EDDE7C34156EE6DE00FD86A0 /* RedSeaBeforeglitch1080.mov */,
 				EDDE7C2B156EE6D200FD86A0 /* testmask2.png */,
 				EDDE7C2C156EE6D200FD86A0 /* testmask3.png */,
 				EDDE7C2D156EE6D200FD86A0 /* testmask.png */,
-				EDDE7C2E156EE6D200FD86A0 /* testmask4.png */,
 				EDDE7C37156EE75300FD86A0 /* mask01.png */,
 				EDDE7C38156EE75300FD86A0 /* mask02.png */,
 				EDDE7C39156EE75300FD86A0 /* mask03.png */,
@@ -380,7 +422,6 @@
 				EDDE7C2F156EE6D200FD86A0 /* testmask2.png in Resources */,
 				EDDE7C30156EE6D200FD86A0 /* testmask3.png in Resources */,
 				EDDE7C31156EE6D200FD86A0 /* testmask.png in Resources */,
-				EDDE7C32156EE6D200FD86A0 /* testmask4.png in Resources */,
 				EDDE7C35156EE6DE00FD86A0 /* RedSeaBefore1080.mov in Resources */,
 				EDDE7C36156EE6DE00FD86A0 /* RedSeaBeforeglitch1080.mov in Resources */,
 				EDDE7C41156EE75300FD86A0 /* mask01.png in Resources */,
@@ -393,6 +434,21 @@
 				EDDE7C48156EE75300FD86A0 /* mask08.png in Resources */,
 				EDDE7C49156EE75300FD86A0 /* mask09.png in Resources */,
 				EDDE7C4A156EE75300FD86A0 /* mask10.png in Resources */,
+				010D8A57156F374E0087EEE8 /* panglitch2reversed1080.mov in Resources */,
+				010D8A5B156F3C660087EEE8 /* redsea.m4a in Resources */,
+				010D8A5F156F41920087EEE8 /* pan1080.mov in Resources */,
+				010D8A61156F43910087EEE8 /* loud.m4a in Resources */,
+				010D8A7F156F5A690087EEE8 /* Ocean6.mp4 in Resources */,
+				010D8A8F15700DB10087EEE8 /* 1.png in Resources */,
+				010D8A9015700DB10087EEE8 /* 2.png in Resources */,
+				010D8A9115700DB10087EEE8 /* 3.png in Resources */,
+				010D8A9215700DB10087EEE8 /* 4.png in Resources */,
+				010D8A9315700DB10087EEE8 /* 5.png in Resources */,
+				010D8A9415700DB10087EEE8 /* 6.png in Resources */,
+				010D8A9515700DB10087EEE8 /* 7.png in Resources */,
+				010D8A9615700DB10087EEE8 /* 8.png in Resources */,
+				010D8A9715700DB10087EEE8 /* 9.png in Resources */,
+				010D8A9815700DB10087EEE8 /* 10.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -527,6 +583,7 @@
 				EDDE7C26156EE6A500FD86A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
